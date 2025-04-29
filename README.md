@@ -1,3 +1,3 @@
 # Hi there, I'm Kenzie 👋
 
-- 🌱 I’m currently learning fullstack developer
+- 🌱 I’m currently learning full stack developer
