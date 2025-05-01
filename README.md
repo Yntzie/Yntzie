@@ -1,4 +1,6 @@
-## Hi there, I'm Kenzie 👋<br><br>- 🌱 I’m currently learning full stack developer <br><br>
+## Hi there, I'm Kenzie 👋<br><br> 
+
+#### - 🌱 I’m currently learning full stack developer <br><br>
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yntzie&theme=onedark)
