@@ -11,7 +11,7 @@
 ---
 
 #### 📊 GitHub Stats:
-!{https://github-profile-trophy.vercel.app/?username=Yntziema&theme=onedark}<br/>
+!(){https://github-profile-trophy.vercel.app/?username=Yntziema&theme=onedark}<br/>
 
 ---
 
