@@ -1,6 +1,6 @@
-## Hi there, I'm Kenzie 👋<br><br> 
+## Hi there, I'm Kenzie from Indonesia👋<br><br> 
 
-#### - 🌱 I’m currently learning full stack developer <br><br>
+#### - 🌱 I’m currently learning full stack developer and AI Engineer <br><br>
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yntzie&theme=onedark)
