@@ -8,7 +8,7 @@
 ---
 
 #### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,typescript,postgres,python,vue&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,typescript,postgres,python,vue,git&theme=light)](https://skillicons.dev)
 
 ---
 
