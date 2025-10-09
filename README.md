@@ -13,10 +13,8 @@
 ---
 
 #### 📊 GitHub Stats:
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Yntzie&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yntzie&theme=dracula&hide_border=false)<br/>
-</div>
 
 ---
 
