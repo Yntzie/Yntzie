@@ -16,7 +16,7 @@
 
 <h2 align="left"> 📊 GitHub Stats: </h2>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <a href="https://github.com/Yntzie">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Yntzie&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="180em"/>
