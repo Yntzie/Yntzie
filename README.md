@@ -15,11 +15,14 @@
 </p>
 
 <h2 align="left"> 📊 GitHub Stats: </h2>
-<p align="center">
+<div align="center" style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Yntzie&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Yntzie&theme=dracula&hide_border=false&mode=weekly" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yntzie&layout=compact&theme=dracula"/>
-</p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yntzie/Yntzie/output/pacman-contribution-graph-dark.svg">
