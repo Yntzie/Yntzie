@@ -16,12 +16,12 @@
 
 <h2 align="left"> 📊 GitHub Stats: </h2>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Yntzie">
   <img src="https://github-readme-stats.vercel.app/api?username=Yntzie&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Yntzie&theme=dracula&hide_border=false&mode=weekly"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yntzie&layout=donut&theme=dracula"/>
-</div>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yntzie/Yntzie/output/pacman-contribution-graph-dark.svg">
