@@ -16,14 +16,14 @@
 
 <h2 align="left"> 📊 GitHub Stats: </h2>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <a href="https://github.com/Yntzie">
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=Yntzie&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="180em"/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Yntzie&theme=dracula&hide_border=false&mode=weekly" height="180em"/>
   </div>
 
-  <div>
+  <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yntzie&layout=compact&theme=dracula" height="180em"/>
   </div>
 </div>
