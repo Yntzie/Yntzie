@@ -16,11 +16,14 @@
 
 <h2 align="left"> 📊 GitHub Stats: </h2>
 
-<a href="https://github.com/Yntzie">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yntzie&theme=dracula" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yntzie&theme=dracula&hide_border=false&mode=weekly" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yntzie&theme=dracula" height="150"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Yntzie">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yntzie&theme=dracula" height="150"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Yntzie&theme=dracula&hide_border=false&mode=weekly" height="150"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yntzie&theme=dracula" height="150"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yntzie&theme=dracula" height="150">
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yntzie/Yntzie/output/pacman-contribution-graph-dark.svg">
