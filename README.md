@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yntzie&label=Profile%20views&color=0e75b6&style=flat" alt="Yntzie" /> </p>
 
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/kenzie-christ-yanto-459478295" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kenzie-christ-yanto-459478295" height="30" width="40" /></a></p>
+
 <h2 align="left">🏆 GitHub Trophies </h2>
 <p align="left"> <a href="https://github-profile-trophy-kannan.vercel.app"><img src="https://github-profile-trophy-kannan.vercel.app/?username=Yntzie&theme=onedark&no-frame=true&margin-w=10" alt="Yntzie" /></a> </p>
 
