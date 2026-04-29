@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/kenzie-christ-yanto-459478295" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></p>
 
 <h2 align="left">🏆 GitHub Trophies </h2>
-<p align="left"> <a href="https://github-profile-trophy-kannan.vercel.app"><img src="https://github-profile-trophy-kannan.vercel.app/?username=Yntzie&theme=onedark&no-frame=true&margin-w=10" alt="Yntzie" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy-kannan.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=Yntzie&theme=onedark&no-frame=true&margin-w=10" alt="Yntzie" /></a> </p>
 
 <h2 align="left"> 💻 Tech Stack: </h2>
 <p align="left">
@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://github.com/Yntzie">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yntzie&theme=dracula" height="150"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Yntzie&theme=dracula&hide_border=false&mode=weekly" height="150"/>
+    <img src="https://streak-stats.demolab.com/?user=Yntzie&theme=dracula&hide_border=true&mode=weekly" height="150"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yntzie&theme=dracula" height="150"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yntzie&theme=dracula" height="150">
   </a>
