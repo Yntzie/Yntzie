@@ -20,7 +20,6 @@
 <p align="center">
   <a href="https://github.com/Yntzie">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yntzie&theme=dracula" height="150"/>
-    <img src="https://streak-stats.demolab.com/?user=Yntzie&theme=dracula&hide_border=true&mode=weekly" height="150"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yntzie&theme=dracula" height="150"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yntzie&theme=dracula" height="150">
   </a>
