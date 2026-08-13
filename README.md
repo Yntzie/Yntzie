@@ -11,7 +11,7 @@
 <h2 align="left"> 💻 Tech Stack: </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,typescript,laravel,html,css,vue,react,python,postgres,mongodb,mysql,git&perline=23"/>
+    <img src="https://skillicons.dev/icons?i=c,typescript,laravel,python,php,html,css,vue,react,postgres,mongodb,mysql,git,java&perline=23"/>
   </a>
 </p>
 
