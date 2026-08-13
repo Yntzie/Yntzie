@@ -8,9 +8,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kenzie-christ-yanto-459478295" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></p>
 
-<h2 align="left">🏆 GitHub Trophies </h2>
-<p align="left"> <a href="https://github-profile-trophy-kannan.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=Yntzie&theme=onedark&no-frame=true&margin-w=10" alt="Yntzie" /></a> </p>
-
 <h2 align="left"> 💻 Tech Stack: </h2>
 <p align="left">
   <a href="https://skillicons.dev">
